@@ -1,1 +1,1 @@
-none yet
+150705 add whisper sngr

@@ -1,8 +1,9 @@
 150705 hp14.htm add whisper sngr. 
 150705 create hp15adl.htm. 
 150708 update img.htm
- 01hp15adl1.htm 大友さゆり 川上ゆう(森野雫 原幹恵/01good 原幹恵/01good/02jyouou
- 大友さゆり, 川上ゆう(森野雫), 原幹恵/01good[02jyouou](蒼井そら)
- 02hp15adl2.htm root 原幹恵root exptSubdir
- 03-
- 
+150717 hp14.htm(iframe anchor tag, add rndm-slctsvr)
+150717 ●hp14.htm(ma:tk2aym  sb:fc2x189  ex:xre601hbr rbn.y.wwm)
+        imgsinger.htm,imgtalent.htm(tk2nan fc2h189,xrea89335)  sndm.htm,mvhawaiianhura.htm(tk2nan,xrehbr601)
+150717 ●hp15al.htm(ma:tk2nan sb:fc2htmr)
+        hp15adl1.htm(大友川上原蒼井selection)  hp15adl2.htm(原root)  hp15adl.htm(notYet)
+        

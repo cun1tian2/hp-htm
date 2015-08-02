@@ -3,7 +3,13 @@
   <meta http-equiv=Content-Type content=text/html;charset=UTF-8>
   <meta http-equiv=Cache-Control content=no-cache>
   <meta http-equiv=Pragma content=no-cache>
-  <meta http-equiv=If-Modified-Since content="Thu, 01 Jun 1970 00:00:00 GMT")
+  <meta http-equiv=If-Modified-Since content="Thu, 01 Jun 1970 00:00:00 GMT">
+  <script src=http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js></script> <!-- IEにあれば不要 -->
+  <script>                      //ｊQuery iframe reload
+  $(document).ready(function(){
+    $("ifrmid").each(function(){this.contentWindow.location.reload(true);} );
+  } );
+  </script>
 </head>
 <body>
 <h3><center>World Wide Music -wwM</center></h3>
@@ -131,7 +137,7 @@ trk02)hookedOnOperaCD CroceEDelizia(TraviataDiVerdi Toreador(CarmenDiBizet Amami
 var imgsvr=slctsvr( ["www8.tok2.com/home2/nanohana","temari.h.fc2.com","s89335.s335.xrea.com"] );
 var sndsvr=slctsvr( ["www8.tok2.com/home2/nanohana","hibari.s601.xrea.com"] );
 
-document.write( "<iframe src=http://",imgsvr,"/hp/adl/imgsinger.htm width=100% height=100% frameborder=1>dummy</iframe><p>" );
+document.write( "<iframe id=ifrmid src=http://",imgsvr,"/hp/adl/imgsinger.htm width=100% height=100% frameborder=1>dummy</iframe><p>" );
 document.write( "<hr>　Show newWindow： profile <a href=http://",imgsvr,"/hp/adl/imgsinger.htm>Singer</a>",
                 " <a href=http://",imgsvr,"/hp/adl/imgtalent.htm target=_blank>Talent</a>(tk2nan,fc2htmr,xres89335),",
                 "　sample <a href=http://",sndsvr,"/hp/adl/sndm.htm target=_blank>Music</a>(tk2nan,xre601hbr),",

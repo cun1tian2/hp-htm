@@ -3,7 +3,7 @@
 150705 hp14.htm add whisper sngr. create hp15adl.htm. 
 150708 update img.htm
 150717 hp14.htm(iframe anchor tag, add rndm-slctsvr)
-150717 ●hp/hp14.htm(ma:tk2aym  sb:fc2x189  ex:xre601hbr, rbnYwwm)
+150803 ●hp/hp14.htm v.150803 (ma:tk2aym  sb:fc2x189  ex:xre601hbr, rbnYwwm)
         selectsvr img(tk2nan,hc2htmr,xres89335), snd(tk2nan,xrehbr601)
         hp/adl/imgsinger.htm (dir/smnl/real)
                imgtalent.htm (dir/smnl/real) (tk2nan,fc2htmr,xres89335)

@@ -12,10 +12,10 @@
 150717 ●hp/hp15adl.htm v.150803 (ma:fc2htmr sb:tk2nan)
         selectsvr dr/nph-ocx.xcg cgiProxy(xrehana,xrehbr112,xres89335{notWork}), to(www.bobx.com).
         hp/adl/hp15adl1.htm(大友川上原蒼井selection) adlprsnl (dir/smnl/real)
-               hp15adl2.htm(ikiAheSelection) adl/slctn (dir/real) {fc2htmr}
-               hp15adl3.htm(personalAV) adl/personal (dir) {fc2htmr}
-               hp15adl4.htm(PersonalAV) adl/Personal (dir) {fc2htmr}
-               hp15adl21.htm(ikiAheYogaAkum) -    notYet (dir/smnl) {fc2htmr}
+               hp15adl2.htm(adl/slctn) adl/slctn (dir/real) {fc2htmr}
+               hp15adl3.htm(personalAV) adl/personal/川上ゆう(森野雫 (dir/real) {fc2htmr}
+               hp15adl4.htm(PersonalAV) adl/personal/神楽坂恵 (dir/real) {fc2htmr}
+               hp15adl21.htm(ikiAheYogaAkum) adl/img1/ikiAheYogaAkum(include./lez)    notYet (dir/smnl) {fc2htmr}
                hp15adl22.htm(lesbianLezLolita) adl/lez (dir/real) {fc2htmr}
-               hp15adl23.htm(BoobsBosomBreast-    notYet (dir/real) {fc2htmr}
-                        (-TitsBustNippleOppaiMuneRub tits jap asia kiss knead rub tits)
+               hp15adl23.htm(BoobsBosomBreastTits-notYet● alt-selection adl/slctn (dir/real) {fc2htmr}
+                        (-BustNippleOppaiMuneRub tits jap asia kiss knead rub tits)

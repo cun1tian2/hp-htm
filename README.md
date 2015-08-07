@@ -11,6 +11,8 @@ hp14.htm v.150803 (ma:tk2aym  sb:fc2x189  ex:xre601hbr, rbnYwwm)
                imgtalent.htm (dir/smnl/real) (tk2nan,fc2htmr,xres89335)
                sndm.htm           (dir) (tk2nan,xrehbr601)
                mvhawaiianhura.htm (dir) (tk2nan,xrehbr601)
+hp15adl0.htm  v150807       "<meta http-equiv=refresh .. url:slctsvr[fc2htmr,tk2nan] .. hp15adl.htm>"
+
 hp15adl.htm v.150803 (ma:fc2htmr sb:tk2nan)
         selectsvr dr/nph-ocx.xcg cgiProxy(xrehana,xrehbr112,xres89335{notWork}), to(www.bobx.com).
         hp/adl/hp15adl1.htm(大友川上原蒼井selection) adlprsnl (dir/smnl/real)

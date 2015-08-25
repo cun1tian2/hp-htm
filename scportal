@@ -1,0 +1,22 @@
+<html><head>	<!-- v.150826 --> 
+<meta http-equiv=Content-Type content=text/html;charset=UTF-8> 
+<head>
+<pre>
+<b>scportal.htm  entry</b> <script>document.write( "\t" , document.lastModified.substr(0,10), "updated (150226created)" );</script> 
+
+<b>ma) </b>http:/hana.k1.xrea.com/hp/→		(basicAuthen)	ftp://hibari:...@s601.xrea.com/sc/
+<b>sb) </b>http://www8.tok2.com/home2/ayame/hp/→	(htacCgi)	ftp://ayame2:...@www43.tok2.com/sc/
+						(cb/htac.cgi?htapt=../sc/scportal.htm)
+----<b>Usage</b>----------------------------------------------
+backupStorage sc/bkup/ (for LTStorage)
+workDir       sc/tmp/  (for temp. Remove Contents after done.)
+
+--------------------------------------------------------------
+Authen: xre(basicAuthen sc/.htaccess .htpasswd), tk2(htac.cgi?htapt=./targetFilePath), targetFileMod=600。
+sc/index.html："deny to open"。
+</pre></html>
+
+
+150825現用)
+http://hibari.s112.xrea.com/hp/       cb/htac.cgi?htapt=../sc/scportal.htm  ftp://hibari:...@s112.xrea.com/public_html/sc/)
+http://www8.tok2.com/home2/ayame/hp/  × hibari~cb/htac.cgi?htapt=../sc/scportal.htm  × ftp://hibari:

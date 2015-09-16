@@ -1,5 +1,5 @@
 http://hibari.s112.xrea.com/cb/htac.cgi?htapt=../sc/scportal.htm OK
-http://hibari.s112.xrea.com/sc/scportal.htm                      svr error
+http://hibari.s112.xrea.com/sc/scportal.htm       BasicAuthen    Svr-Error (xrehbr601も同)？？
 
 sc/          0705
 sc/.htaccess 0705

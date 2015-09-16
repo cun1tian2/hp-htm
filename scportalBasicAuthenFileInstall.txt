@@ -1,6 +1,6 @@
 http://hibari.s112.xrea.com/cb/htac.cgi?htapt=../sc/scportal.htm OK
 http://hibari.s112.xrea.com/sc/scportal.htm       BasicAuthen    Svr-Error (xrehbr601も同)？？
-
+150916 *1) /virtual/hibari/public_html/sc/.htpasswdに変更、*2) xreaコンパネ(管理画面)→管理メニュー→ツール yama:aiQHykF77uiQI mizora:aiqtrrhRujyBEが生成される。xrehbr112で*1,2)実行→ なおSvr-Err ???
 sc/          0705
 sc/.htaccess 0705
 AuthUserFile	/virtual/hibari/public_html/cb/cbsc/.htpasswd

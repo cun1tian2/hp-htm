@@ -5,3 +5,7 @@ sc/          0705
 sc/.htaccess 0705
 AuthUserFile	/virtual/hibari/public_html/cb/cbsc/.htpasswd
 AuthGroupFile	/dev/null
+AuthType	Basic
+require	valid-user
+
+sc/.htpasswd 0705

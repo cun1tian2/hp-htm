@@ -1,1 +1,3 @@
-here
+http://hibari.s112.xrea.com/cb/htac.cgi?htapt=../sc/scportal.htm OK
+http://hibari.s112.xrea.com/sc/scportal.htm                      svr error
+

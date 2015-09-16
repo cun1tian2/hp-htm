@@ -9,3 +9,6 @@ AuthType	Basic
 require	valid-user
 
 sc/.htpasswd 0705
+yama:H/XLprq1J28hM
+mizora:mya6l8qb2lEfA
+# g.b.. b.b..

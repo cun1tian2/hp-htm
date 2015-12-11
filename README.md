@@ -1,3 +1,4 @@
+151211 hpportal.htm  temari.h.fc2.com/hp/hpportal.htm installed as (ma), not yet a few sites (sb), for accessing nonSecure frhp.
 150916 scportal BasicAuthen svr-error(xrehbr112,xrehbr2601) NG, cb/htac.cgi?htapt=../sc/scportal.htm OK
        ref:scportalBasicAuthenFileInstall.txt
 150901 scportal.htm edit & install xrehbr601,tk2aym243hm2) & temprally oldSite(xrehbr112) .

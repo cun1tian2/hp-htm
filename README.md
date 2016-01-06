@@ -11,7 +11,7 @@
 150708 update img.htm
 150717 hp14.htm(iframe anchor tag, add rndm-slctsvr)
        upgradePlan onloadランダムurl遷移、iframeリロード (onload location.[reload|replace]  search(query部分) )
--------------------------------------------------------------------
+ ------------------------------------------------------------------------------------------------------------------
 sc/scportal.htm v150912 (ma)xre601hbr <-xrek1han  (sb)tk2aym2542 <-tk2aymhm28
 
 hp14.htm v150803 (ma:tk2aym  sb:fc2x189  ex:xre601hbr, rbnYwwm)

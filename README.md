@@ -1,3 +1,5 @@
+160106 chg hp15noh.htm, add(宝生初級謡本詞章訳書.htm .xls ifrmsrc.htm, 謡曲目次新潮＆解註.doc
+       iframsrc srcUrl コンテンツ 日本語異常？
 151211 hpportal.htm  temari.h.fc2.com/hp/hpportal.htm installed as (ma), not yet a few sites (sb), for accessing nonSecure frhp.
 150916 scportal BasicAuthen svr-error(xrehbr112,xrehbr2601) NG, cb/htac.cgi?htapt=../sc/scportal.htm OK
        ref:scportalBasicAuthenFileInstall.txt

@@ -1,3 +1,4 @@
+160211 chg 新編日本古典文学全集小学館 add完訳日本の古典小学館
 160106 chg hp15noh.htm, add(宝生初級謡本詞章訳書.htm .xls ifrmsrc.htm, 謡曲目次新潮＆解註.doc
        iframsrc srcUrl コンテンツ 日本語異常？
 151211 hpportal.htm  temari.h.fc2.com/hp/hpportal.htm installed as (ma), not yet a few sites (sb), for accessing nonSecure frhp.

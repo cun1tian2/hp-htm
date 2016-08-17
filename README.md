@@ -10,7 +10,8 @@
        ref:scportalBasicAuthenFileInstall.txt
 150901 scportal.htm edit & install xrehbr601,tk2aym243hm2) & temprally oldSite(xrehbr112) .
 150817 add(hp15noh.htm),
-150807 add(hp15adl0.htm),  150802 hp14.htm add(jQuery ifrm mgsinger reload, not work)
+150807 add(hp15adl0.htm),
+150802 hp14.htm add(jQuery ifrm mgsinger reload, not work)
 000000 cor.(hp15adl2.htm
 150705 hp14.htm add whisper sngr. create hp15adl.htm. 
 150708 update img.htm

@@ -1,6 +1,13 @@
+[std dir align]
+/index.html link to "hp/*.htm"
+/dirs don't place indexFile for webDav use. [cb dr hp img mv sc snd txd]
+std entry fileName: hpNN***.htm  [hp15adl hp15wwm hp15nohhpspt16 hpmus16 ]
+others [hogk shk8 poem [mult-]lngl hpportal scportal]
+
+----too old------------------------------------------------------------
 tk2aym  adl/cn,jp					(adlt)
 
-yk2nan  adl/lez,slctn					(adlt)
+✖tk2nan  adl/lez,slctn					(adlt)
         adlprsnl
 
 tk2aym2 adl/img1/ikiaheYogaAkum,gdLite,lez,selection	(adlt)
@@ -18,7 +25,7 @@ fc2web189 notYet
 fc2x189   wwm
 
 xrehank1 no img dir
-xrehbr    img/-
+✖txrehbr    img/-
 xress292  img/-
 xres89335 img/-
 xrehbr601 img/-

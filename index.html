@@ -17,7 +17,7 @@ End Eof
 </body>
 </html>
 
-<!-- redirect sample
+<!-- redirection, sample
 <meta http-equiv="refresh" content="秒数;URL=URL">
 <script type="text/javascript"> location.href="URL"; </script>
 .htaccessによるリダイレクト(同じホストの場合)
@@ -26,7 +26,7 @@ End Eof
         RewriteRule ^$ /sp/ [R=301,L]
 -->
 
-<!-- auto select server sample
+<!-- auto select server via index0.html, sample
 <script>
 document.write( "<meta http-equiv=refresh content=0;url=http://",
 slctsvr( ["temari.h.foo.bar.com","www8.hoo.bar.com/home2/nanohana"] ),

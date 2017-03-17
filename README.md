@@ -1,4 +1,5 @@
- 要 iframe内 .xml埋め込み
+ 要 iframe内 .xml埋め込み???
+170317 frhp re-align -> 
 160831 PS. 追記 ballgame marigame tennis (ma)http://www43.tok2.com/home/ayame2/hp/tennis.htm
 160820 new zonbiesurvival.htm(mod600) on tk243aym2/sc
 160816 new create hp16badaccreuse.htm (via scportal 43tk2hmayame2 hibari601xrea)

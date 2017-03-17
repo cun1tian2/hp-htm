@@ -1,14 +1,15 @@
-[std dir align]
+●●● std dir align ●●●
 /index.html link to "hp/*.htm"
 /dirs don't place indexFile for webDav use. [cb dr hp img mv sc snd txd]
 std entry fileName: hpNN***.htm  [hp15adl hp15wwm hp15nohhpspt16 hpmus16 ]
 others [hogk shk8 poem [mult-]lngl hpportal scportal]
 
-170317 re-align(at editting fc2htmr frhp)
+●●● ｆｒｈｐ re-align  (aｔ 170317 editting fc2htmr frhp)----------------------
 hp14hogk.htm v150803  (ma:tk28hm2aym sb:fc2x189,xre601hbr,rbnYwwm
 hp15adl.htm v150803   (ma:fc2htmr sb:tk28hm2nan
 hp15noh.htm v150817   (ma:xress292 sb:fc2htmr
 hp15margm.htm v150302 (ma:tk2hmaym2 sb:fc2htmr
+
 ----too old------------------------------------------------------------
 tk2aym  adl/cn,jp					(adlt)
 

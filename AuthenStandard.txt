@@ -1,6 +1,7 @@
 AuthenStandard		(zaguma4- doage4- dagaba1- cleopatra9-)
-File------------------------------------------------a link-----------
-hp/adl/00xxxNNNadlt.htm								~/
-hp/00zagumaNNNhpprtl.htm							(~/ ~/hp/)
+File----------------------------------------------------a link---------------------
+hp/adl/00xxxNNNadlt.htm					~/
+hp/00zagumaNNNhpprtl.htm				(~/ ~/hp/)
+hp/hpprtl.htm(ma:xrek1 & any)
 sc/scprtl.htm(bAuthen_fc2x, htacCgi_(tk243, xre601)	hpprtl
-sc/00cleopatraNNNzonbie.htm htacCgi_tk243			(~/ ~/hp/)
+sc/00cleopatraNNNzonbie.htm htacCgi_tk243		(~/ ~/hp/)
